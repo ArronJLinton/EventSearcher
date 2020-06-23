@@ -6,7 +6,6 @@ Use this program to search for events near you!
 [Matty J](https://github.com/JattMohnson)  
 [Kieran Anthony](https://github.com/zekkxx)  
 
-###
-“Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn”
-"In his house in ancient R'lyeh dead Cthulhu waits dreaming"
-
+## Changes that will cause a conflict
+Asdasdasd
+ASdasdas
